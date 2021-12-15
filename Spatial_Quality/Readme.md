@@ -1,2 +1,3 @@
-Frame Level NIQE Score Estimation
-Final Spatial Quality Score Evaluation
+
+* Frame Level NIQE Score Estimation
+* Final Spatial Quality Score Evaluation
