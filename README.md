@@ -5,7 +5,7 @@
 * Spatial Quality Estimation.
 * STEM Quality Estimation
 
-#Citation
+# Citation
 * If you are using the code/model/data provided here in a publication, please cite our paper:
 
    Completely Blind Quality Assessment of User Generated Video Content 
