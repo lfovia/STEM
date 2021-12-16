@@ -26,5 +26,8 @@
   pages={263-274},
   
   doi={10.1109/TIP.2021.3130541}}
+  
+  
+  P. Kancharla and S. S. Channappayya, "Completely Blind Quality Assessment of User Generated Video Content," in IEEE Transactions on Image Processing, vol. 31, pp. 263-274, 2022, doi: 10.1109/TIP.2021.3130541.
 
    
